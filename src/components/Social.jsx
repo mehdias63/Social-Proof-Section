@@ -1,7 +1,5 @@
 import React from 'react'
 
 export default function Social() {
-  return (
-    <div>Social</div>
-  )
+  return <img src="/images/icon-star.svg" alt="icon-star" />
 }

@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Count({icon , title , text}) {
   return (
-    <div className="bg-[#512051] w-[20.4375rem] h-[15.5rem] m-6 p-6 text-white rounded-lg">
+    <div className="wrap bg-[#512051] w-[20.4375rem] h-[15.5rem] m-3 mt-6 p-6 text-white rounded-lg">
       <div className="flex gap-8 mt-2">
         <img src={icon} className="w-[2.5rem] h-[2.5rem] rounded-full" />
         <div>

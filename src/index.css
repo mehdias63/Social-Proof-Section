@@ -2,18 +2,20 @@
 @tailwind components;
 @tailwind utilities;
 
-div.btn:nth-child(1){
- margin-left: 1px;
-}
-div.btn:nth-child(2){
+@media (min-width: 64em) {
+  div.btn:nth-child(1) {
+    margin-left: 1px;
+  }
+  div.btn:nth-child(2) {
     margin-left: 35px;
-}
-div.btn:nth-child(3){
+  }
+  div.btn:nth-child(3) {
     margin-left: 65px;
-}
-div.wrap:nth-child(2){
+  }
+  div.wrap:nth-child(2) {
     margin-top: 50px;
-}
-div.wrap:nth-child(3){
+  }
+  div.wrap:nth-child(3) {
     margin-top: 80px;
+  }
 }

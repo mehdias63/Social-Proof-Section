@@ -1,6 +1,6 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - Social-proof-section component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Social-proof-section component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/mehdias63/qr-code)
-- Live Site URL: [Add live site URL here](https://qr-code-one-dun.vercel.app)
+- Solution URL: [Add solution URL here](https://github.com/mehdias63/Social-Proof-Section)
+- Live Site URL: [Add live site URL here](https://social-proof-section-five-topaz.vercel.app)
 
 ## My process
 
